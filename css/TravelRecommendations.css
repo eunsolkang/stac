@@ -17,12 +17,16 @@
   border-radius: 10px;
 }
 .card{
-
   border-radius: 10px;
   margin-top: 5rem;
   box-shadow: 2px 2px 20px 1px gray;
   padding: 1.5rem;
-
+}
+.main-card{
+  border-radius: 10px;
+  margin-top: 0rem;
+  box-shadow: 2px 2px 20px 1px gray;
+  padding: 1.5rem;
 }
 .oneCard{
   background-color: #ffb742;

@@ -6,6 +6,10 @@ body{
   background-color: white;
   box-shadow: 2px 2px 20px 1px gray;
 }
+.main-page-card{
+  box-shadow: none;
+  margin-top: 0px;
+}
 #p1{
   padding-bottom: 1rem;
 }

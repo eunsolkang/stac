@@ -41,14 +41,21 @@ header nav .nav-box{
   color:white;
   margin-left: 3rem;
   cursor: pointer;
+  min-width:100px;
+  text-align: center;
 }
 
 @media (max-width : 650px){
     header .header-logo{
       display: none;
     }
+    header nav{
+      margin-right: 1rem;
+    }
     header nav .nav-box{
-      font-size: 11pt;
-      margin-left: 1.5rem;
+      font-size: 10pt;
+      margin-left: 1rem;
+      min-width:60px;
+      text-align: left;
     }
 }
